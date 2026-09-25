@@ -1,0 +1,167 @@
+[
+  {
+    "query_id": 1,
+    "query_text": "red mountain bike bicycle on trail",
+    "target_category": "bicycles_motorcycles",
+    "precision_at_5": 0.0,
+    "first_relevant_rank": null,
+    "failure_explanation": "CLIP bike query.",
+    "top_retrieved": [
+      {
+        "rank": 1,
+        "id": 16,
+        "caption": "Vibrant yellow urban city cruiser bicycle, sleek minimalist angle",
+        "category": "bicycles_motorcycles",
+        "color": "yellow",
+        "similarity_score": 0.2710074782371521,
+        "is_relevant": false
+      },
+      {
+        "rank": 2,
+        "id": 15,
+        "caption": "Vibrant yellow urban city cruiser bicycle, detailed texture view",
+        "category": "bicycles_motorcycles",
+        "color": "yellow",
+        "similarity_score": 0.2710074782371521,
+        "is_relevant": false
+      },
+      {
+        "rank": 3,
+        "id": 14,
+        "caption": "Vibrant yellow urban city cruiser bicycle, authentic lifestyle photography",
+        "category": "bicycles_motorcycles",
+        "color": "yellow",
+        "similarity_score": 0.2710074782371521,
+        "is_relevant": false
+      },
+      {
+        "rank": 4,
+        "id": 13,
+        "caption": "Vibrant yellow urban city cruiser bicycle, high resolution studio shot",
+        "category": "bicycles_motorcycles",
+        "color": "yellow",
+        "similarity_score": 0.2710074782371521,
+        "is_relevant": false
+      },
+      {
+        "rank": 5,
+        "id": 20,
+        "caption": "Blue touring bicycle equipped with luggage racks, sleek minimalist angle",
+        "category": "bicycles_motorcycles",
+        "color": "blue",
+        "similarity_score": 0.23119981586933136,
+        "is_relevant": false
+      }
+    ]
+  },
+  {
+    "query_id": 3,
+    "query_text": "classic vintage black motorcycle",
+    "target_category": "bicycles_motorcycles",
+    "precision_at_5": 0.2,
+    "first_relevant_rank": 5,
+    "failure_explanation": "Motorcycle vs bicycle.",
+    "top_retrieved": [
+      {
+        "rank": 1,
+        "id": 4,
+        "caption": "Red all-terrain mountain bicycle parked on trail, sleek minimalist angle",
+        "category": "bicycles_motorcycles",
+        "color": "red",
+        "similarity_score": 0.22319485247135162,
+        "is_relevant": false
+      },
+      {
+        "rank": 2,
+        "id": 3,
+        "caption": "Red all-terrain mountain bicycle parked on trail, detailed texture view",
+        "category": "bicycles_motorcycles",
+        "color": "red",
+        "similarity_score": 0.22319485247135162,
+        "is_relevant": false
+      },
+      {
+        "rank": 3,
+        "id": 2,
+        "caption": "Red all-terrain mountain bicycle parked on trail, authentic lifestyle photography",
+        "category": "bicycles_motorcycles",
+        "color": "red",
+        "similarity_score": 0.22319485247135162,
+        "is_relevant": false
+      },
+      {
+        "rank": 4,
+        "id": 1,
+        "caption": "Red all-terrain mountain bicycle parked on trail, high resolution studio shot",
+        "category": "bicycles_motorcycles",
+        "color": "red",
+        "similarity_score": 0.22319485247135162,
+        "is_relevant": false
+      },
+      {
+        "rank": 5,
+        "id": 12,
+        "caption": "Classic vintage black and silver motorcycle, sleek minimalist angle",
+        "category": "bicycles_motorcycles",
+        "color": "black",
+        "similarity_score": 0.21589574217796326,
+        "is_relevant": true
+      }
+    ]
+  },
+  {
+    "query_id": 5,
+    "query_text": "sleek red sports car on highway",
+    "target_category": "automotive",
+    "precision_at_5": 0.2,
+    "first_relevant_rank": 5,
+    "failure_explanation": "Sports car query.",
+    "top_retrieved": [
+      {
+        "rank": 1,
+        "id": 56,
+        "caption": "White luxury convertible sports car along coast, sleek minimalist angle",
+        "category": "automotive",
+        "color": "white",
+        "similarity_score": 0.25677600502967834,
+        "is_relevant": false
+      },
+      {
+        "rank": 2,
+        "id": 55,
+        "caption": "White luxury convertible sports car along coast, detailed texture view",
+        "category": "automotive",
+        "color": "white",
+        "similarity_score": 0.25677600502967834,
+        "is_relevant": false
+      },
+      {
+        "rank": 3,
+        "id": 54,
+        "caption": "White luxury convertible sports car along coast, authentic lifestyle photography",
+        "category": "automotive",
+        "color": "white",
+        "similarity_score": 0.25677600502967834,
+        "is_relevant": false
+      },
+      {
+        "rank": 4,
+        "id": 53,
+        "caption": "White luxury convertible sports car along coast, high resolution studio shot",
+        "category": "automotive",
+        "color": "white",
+        "similarity_score": 0.25677600502967834,
+        "is_relevant": false
+      },
+      {
+        "rank": 5,
+        "id": 44,
+        "caption": "Sleek red sports car parked on sunny highway, sleek minimalist angle",
+        "category": "automotive",
+        "color": "red",
+        "similarity_score": 0.21078413724899292,
+        "is_relevant": true
+      }
+    ]
+  }
+]

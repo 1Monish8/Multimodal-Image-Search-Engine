@@ -1,0 +1,110 @@
+[
+  {
+    "query_id": 1,
+    "query_text": "red sports car",
+    "target_category": "automotive",
+    "target_color": "red",
+    "relevant_ids": [
+      1,
+      2,
+      14,
+      19
+    ],
+    "failure_note": "Evaluation for red sports car"
+  },
+  {
+    "query_id": 2,
+    "query_text": "red mountain bike bicycle",
+    "target_category": "bicycles_motorcycles",
+    "target_color": "red",
+    "relevant_ids": [
+      21,
+      27
+    ],
+    "failure_note": "Evaluation for red mountain bike bicycle"
+  },
+  {
+    "query_id": 3,
+    "query_text": "black wireless over-ear headphones",
+    "target_category": "electronics",
+    "target_color": "black",
+    "relevant_ids": [
+      35,
+      37,
+      40
+    ],
+    "failure_note": "Evaluation for black wireless over-ear headphones"
+  },
+  {
+    "query_id": 4,
+    "query_text": "happy golden retriever dog on beach",
+    "target_category": "animals",
+    "target_color": "gold",
+    "relevant_ids": [
+      41,
+      45
+    ],
+    "failure_note": "Evaluation for happy golden retriever dog on beach"
+  },
+  {
+    "query_id": 5,
+    "query_text": "steaming hot espresso coffee cup",
+    "target_category": "beverages_and_food",
+    "target_color": "brown",
+    "relevant_ids": [
+      55
+    ],
+    "failure_note": "Evaluation for steaming hot espresso coffee cup"
+  },
+  {
+    "query_id": 6,
+    "query_text": "fresh baked gourmet pepperoni pizza",
+    "target_category": "beverages_and_food",
+    "target_color": "red",
+    "relevant_ids": [
+      56
+    ],
+    "failure_note": "Evaluation for fresh baked gourmet pepperoni pizza"
+  },
+  {
+    "query_id": 7,
+    "query_text": "classic blue denim jacket",
+    "target_category": "lifestyle_fashion",
+    "target_color": "blue",
+    "relevant_ids": [
+      59
+    ],
+    "failure_note": "Evaluation for classic blue denim jacket"
+  },
+  {
+    "query_id": 8,
+    "query_text": "vibrant sunset sky reflecting on ocean",
+    "target_category": "nature_architecture",
+    "target_color": "orange",
+    "relevant_ids": [
+      61
+    ],
+    "failure_note": "Evaluation for vibrant sunset sky reflecting on ocean"
+  },
+  {
+    "query_id": 9,
+    "query_text": "vintage cafe racer motorcycle",
+    "target_category": "bicycles_motorcycles",
+    "target_color": "black",
+    "relevant_ids": [
+      22,
+      23
+    ],
+    "failure_note": "Evaluation for vintage cafe racer motorcycle"
+  },
+  {
+    "query_id": 10,
+    "query_text": "tan leather travel backpack",
+    "target_category": "lifestyle_fashion",
+    "target_color": "brown",
+    "relevant_ids": [
+      58
+    ],
+    "failure_note": "Evaluation for tan leather travel backpack"
+  }
+]
